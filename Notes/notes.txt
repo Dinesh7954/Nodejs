@@ -1,0 +1,9 @@
+In Node environment we have gobal object  where as in  chrome browser we have window object 
+
+import / export ====> ES6 script
+
+require / exports ===> moduleJS
+
+Child process is a node module used to create sub process within a script . 
+
+npm init -- to create project file or initialize a node package  called package.json 
